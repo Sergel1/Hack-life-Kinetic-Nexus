@@ -14,7 +14,7 @@ Functions include
 
 # structure
 Following files and can be found in
-
+[asset/2d-visualization-with-tripod.jpg}
 
 #progress
 
