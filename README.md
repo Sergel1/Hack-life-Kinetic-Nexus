@@ -1,32 +1,31 @@
 ## Hacklife Kinetic-Nexus
-
+![2D Visualization with tripod](assets/2d-visualization-with-tripod.jpg)
 # Pourpose
-
-This projetc is called Kinetic-Nexus and like the name sugggets it´s function is dependent on the kinetics. Its meant to be a modular seflie-stick
-
-Functions include
-* Expandable bse
-* "Bluethooth" remote
-* Tripod
-* Phone holding mechanism
-* Non electric
-  
-
-# structure
-Following files and can be found in
-[assets/2d-visualization-with-tripod.jpg]
-
-#progress
+**Kinetic Nexus** is a SolidWorks CAD project for a compact hexagonal "telescoping" selfie stick. Build for Hack Club **Half-Life** hardware program.
 
 
+## Project status
 
-#Cad
+### Completed 
+- Parametric telescoping tubes Tube 1 to 4 (T1-T4) (all tubes)
+- Configuration specific demensions
+- J1 external threaded bosse into T1
+- J1 collet
+- J1 locking nut (for T1 , Collet, and Locking nut)
+- J1 assembly, exploded view
 
 
+  ### Still To Be Completed
+  - J2 (locking joint between  T2 and T3
+  - J3 locking joint betweeb T3 and T4
+  - Ruler markings
+  - T1 grip and tripod mechanism
+  - Phone mount, (tilited head and clam)
+  - Assembly of all parts
+  - Physical comfirmation
 
 
+## Visual overview 
 
+### 3D renders
 
-
-
-#disclaimer
