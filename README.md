@@ -47,7 +47,8 @@
 - [Build Specification (PDF)](<docs/Kinetic-Nexus Build Specification (1) (1).pdf>) — Full build and tolerance specification.
 - [Thread & Nut Equations (TXT)](<docs/equations_KINETIC_NEXUS_NUTS.txt>) — Parametric equations for the J1 thread and nut geometry.
 ---
-
+## Disclaimer
+Ai was used to guide the build process, equations  and with the images (soon to be replaced
 ## Repository Structure
 
 ```text
