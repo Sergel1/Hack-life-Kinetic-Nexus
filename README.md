@@ -32,3 +32,10 @@
 | :---: | :---: |
 | ![2D Visualixation](assets/2d-visualization-with-tripod.jpg) | ![3D Visualization](assets/3D-Visualization.jpg) | 
 
+## T1-T4 Tube Configurations
+![T1-T4 tube configurations](assets/T1-T4-config.png)
+
+## J1 Locking Joint Assembely + Exploded View
+| J1 Assembly | J1 Exploded View | 
+| :---: |  :---: | 
+|  ![J1 Assembly]
