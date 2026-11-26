@@ -28,4 +28,7 @@
 ## Visual overview 
 
 ### 3D renders
+| 2D Visualization | 3D Visualization |
+| :---: | :---: |
+| ![2D Visualixation](assets/2d-visualization-with-tripod.jpg) | ![3D Visualization](
 
