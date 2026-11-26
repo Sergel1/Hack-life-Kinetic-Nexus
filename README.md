@@ -38,4 +38,7 @@
 ## J1 Locking Joint Assembely + Exploded View
 | J1 Assembly | J1 Exploded View | 
 | :---: |  :---: | 
-|  ![J1 Assembly]
+|  ![J1 Assembly](assets/J1_asembly.png) | ![J1 EXPLODED VIEW](j1-exploded.png) |
+
+## Tube Dimensions AndSpecefication
+
